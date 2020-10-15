@@ -24,6 +24,11 @@
 
 ## 快速开始
 
+    # 下载仓库
+    git clone https://github.com/AngelLiang/django-social-auth-demo
+    cd django-social-auth-demo
+
+    # 创建环境
     pipenv install
     pipenv shell
 
